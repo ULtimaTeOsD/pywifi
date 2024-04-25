@@ -29,10 +29,10 @@ test_requires = [
 ]
 
 setup(
-    name='pywifi',
+    name='Wifi Cracker',
     version='1.1.12',
-    author='Jiang Sheng-Jhih',
-    author_email='shengjhih@gmail.com',
+    author='Dwij',
+    author_email='dwijcoding@gmail.com',
     description="A cross-platform module for manipulating WiFi devices.",
     long_description=readme,
     long_description_content_type="text/markdown",
